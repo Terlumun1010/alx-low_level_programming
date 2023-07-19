@@ -1,8 +1,8 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
-	 * is written by Raphael Yande
-	 * Return: 0
+	 *
+	 * Return: Always 0
 	 */
 
 
